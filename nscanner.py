@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import nmap
 import optparse
 import socket
